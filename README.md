@@ -10,6 +10,6 @@
 | 마크다운 프리뷰 | https://dillinger.io |
 | Swift Document | https://developer.apple.com/documentation/swift |
 | SwiftUI Document | https://developer.apple.com/documentation/swiftui |
-
+| WWDC 자막 확장프로그램 | https://chrome.google.com/webstore/detail/wwdc-%ED%95%9C%EA%B8%80-%EC%9E%90%EB%A7%89/maldceleendeilpfaoafibpahoopnnof?hl=ko |
 
 
