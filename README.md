@@ -16,4 +16,4 @@
 | Homebrew M1 not fount 해결법 | https://m.blog.naver.com/tnsqo1126/222627852760 |
 | Objective-C 레퍼런스 | https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html |
 | AppIcons Generator | https://www.appicon.co/ |
-
+| 앱스토어 가이드라인 | https://developer.apple.com/kr/app-store/review/guidelines/ |
