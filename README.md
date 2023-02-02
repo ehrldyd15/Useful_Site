@@ -17,3 +17,5 @@
 | Objective-C 레퍼런스 | https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html |
 | AppIcons Generator | https://www.appicon.co/ |
 | 앱스토어 가이드라인 | https://developer.apple.com/kr/app-store/review/guidelines/ |
+| gitignore 사용법 | https://jjeongil.tistory.com/1792 |
+
