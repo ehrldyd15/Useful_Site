@@ -19,5 +19,5 @@
 | 앱스토어 가이드라인 | https://developer.apple.com/kr/app-store/review/guidelines/ |
 | gitignore 사용법 | https://jjeongil.tistory.com/1792 |
 | SVG to SwiftUI | https://svg-to-swiftui.quassum.com/ |
-| Swift 가이드 (한긆) | [https://svg-to-swiftui.quassum.com/](https://jusung.gitbook.io/the-swift-language-guide/language-guide/22-generics) |
+| Swift 가이드 (한글) | [https://svg-to-swiftui.quassum.com/](https://jusung.gitbook.io/the-swift-language-guide/language-guide/22-generics) |
 
