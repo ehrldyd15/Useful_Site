@@ -20,4 +20,7 @@
 | gitignore 사용법 | https://jjeongil.tistory.com/1792 |
 | SVG to SwiftUI | https://svg-to-swiftui.quassum.com/ |
 | Swift 가이드 (한글) | https://jusung.gitbook.io/the-swift-language-guide/language-guide/22-generics |
+| Let's Swift | https://github.com/letswiftconf/newsletter |
+
+
 
