@@ -25,5 +25,13 @@
 | 아이폰 모델 | https://en.wikipedia.org/wiki/List_of_iPhone_models |
 | 아이폰 기종별 코드타입 | https://gist.github.com/adamawolf/3048717 |
 
+머저블 라이브러리 참고사이트
 
-
+Link fast: Improve build and launch times https://developer.apple.com/videos/play/wwdc2022/110362
+Meet mergeable libraries https://developer.apple.com/videos/play/wwdc2023/10268
+What is 'hook' mentioned at Meet mergeable libraries Session https://developer.apple.com/forums/thread/736404 
+Bundle Programming Guide https://developer.apple.com/library/archive/documentation/CoreFoundation/Conceptual/CFBundles/Introduction/Introduction.html
+Depp dive into mergeable library(Line) https://speakerdeck.com/giginet/deep-dive-into-mergeable-library
+Ld man page https://keith.github.io/xcode-man-pages/ld.1.html#merge_framework
+Bundle Main https://developer.apple.com/documentation/foundation/bundle/1410786-main
+Low Level iOS https://github.com/qyang-nj/llios/tree/main
