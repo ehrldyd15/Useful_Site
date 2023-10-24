@@ -24,3 +24,4 @@
 | 아이폰 버전 히스토리 | https://en.wikipedia.org/wiki/IOS_version_history |
 | 아이폰 모델 | https://en.wikipedia.org/wiki/List_of_iPhone_models |
 | 아이폰 기종별 코드타입 | https://gist.github.com/adamawolf/3048717 |
+| 개발 기초 레포 | https://github.com/ByteByteGoHq/system-design-101 |
