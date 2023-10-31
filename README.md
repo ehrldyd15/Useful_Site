@@ -26,5 +26,6 @@
 | 아이폰 기종별 코드타입 | https://gist.github.com/adamawolf/3048717 |
 | 개발 기초 레포 | https://github.com/ByteByteGoHq/system-design-101 |
 | Tuist 공식문서 | https://docs.tuist.io/tutorial/get-started |
+| 코디네이터 패턴 | https://khanlou.com/2015/01/the-coordinator/ |
 
 
