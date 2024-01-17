@@ -30,4 +30,6 @@
 | Diffable Datasource | https://zeddios.tistory.com/1197 |
 | 스위프트로 서버만들기 | https://zeddios.tistory.com/957 |
 | SPM 만들고 배포하기 | https://phillip5094.tistory.com/23 |
+| 비전프로 개발시 알아야 할 것들 | https://news.hada.io/topic?id=12866 |
+
 
