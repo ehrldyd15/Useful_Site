@@ -33,4 +33,6 @@
 | 비전프로 개발시 알아야 할 것들 | https://news.hada.io/topic?id=12866 |
 | 아이폰, 아이패드 암호없이 공장초기화 | https://support.apple.com/ko-kr/HT204306 |
 | TCA 튜토리얼 | https://pointfreeco.github.io/swift-composable-architecture/main/tutorials/composablearchitecture/01-01-yourfirstfeature/ |
+| 맥북 용량늘리기 | https://skytitan.tistory.com/562 |
+
 
