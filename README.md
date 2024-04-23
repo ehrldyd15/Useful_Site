@@ -35,4 +35,5 @@
 | TCA 튜토리얼 | https://pointfreeco.github.io/swift-composable-architecture/main/tutorials/composablearchitecture/01-01-yourfirstfeature/ |
 | 맥북 용량늘리기 | https://skytitan.tistory.com/562 |
 | 강의 모음 | [https://skytitan.tistory.com/562](https://url.kr/kSNLa5 ) |
+| iOS Privacy Manifest | https://fernando.kr/develop/2024-04-07-ios-privacy-manifest-scanner/ |
 
