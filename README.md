@@ -23,6 +23,7 @@
 | Let's Swift | https://github.com/letswiftconf/newsletter |
 | 아이폰 버전 히스토리 | https://en.wikipedia.org/wiki/IOS_version_history |
 | 아이폰 모델 | https://en.wikipedia.org/wiki/List_of_iPhone_models |
+| 아이폰 모델별 해상도 | https://kka7.tistory.com/46 |
 | 아이폰 기종별 코드타입 | https://gist.github.com/adamawolf/3048717 |
 | 개발 기초 레포 | https://github.com/ByteByteGoHq/system-design-101 |
 | Tuist 공식문서 | https://docs.tuist.io/tutorial/get-started |
