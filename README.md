@@ -40,4 +40,7 @@
 | vi ~/.zshrc | https://velog.io/@hannabananah/vi-.zshrc |
 | 코파일럿 | https://github.com/github/CopilotForXcode |
 | 파이어베이스 버전별 xcframework | https://github.com/firebase/firebase-ios-sdk/releases/tag/10.10.0 |
+| SwiftUI 디버깅 | https://github.com/Aeastr/RenderMeThis |
+
+
 
